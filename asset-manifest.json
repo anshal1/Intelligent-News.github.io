@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Intelligent-News/static/css/main.ad943fe0.css",
+    "main.js": "/Intelligent-News/static/js/main.64cb4769.js",
+    "static/js/787.b90a4b1d.chunk.js": "/Intelligent-News/static/js/787.b90a4b1d.chunk.js",
+    "index.html": "/Intelligent-News/index.html",
+    "main.ad943fe0.css.map": "/Intelligent-News/static/css/main.ad943fe0.css.map",
+    "main.64cb4769.js.map": "/Intelligent-News/static/js/main.64cb4769.js.map",
+    "787.b90a4b1d.chunk.js.map": "/Intelligent-News/static/js/787.b90a4b1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad943fe0.css",
+    "static/js/main.64cb4769.js"
+  ]
+}
